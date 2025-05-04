@@ -7,7 +7,7 @@ Both documents should be referenced continously throughout your completion of th
 ## Data
 The music data can be obtained from the DATA folder, which contains two tables - one for albums, and one with directions to download the tracks file since it is too large to house on this site. 
 ## Examples
-The 'Examples' folder contains a couple scripts for EDA and Analysis if you need help or ideas getting started.
+The 'Examples' folder contains a couple scripts for EDA and Analysis if you need help or ideas when getting started.
 ## Reference Materials
 The 'Reference Materials' folder contains helpful resources related to the context of the social issue and tips for time-series analysis with the Prophet model in developing a predictive model.
 
