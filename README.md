@@ -1,1 +1,1 @@
-# Music-Genre-Case-Study
+# Music Genre Case Study
